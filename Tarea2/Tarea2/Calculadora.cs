@@ -10,9 +10,9 @@ namespace Calificaciones
         {
             if (participacion > 5)
             {
-                return (proyecto * 60 + tareas * 40) + 80;
+                return (proyecto * 6 + tareas * 4) + 8;
             }
-            return (proyecto * 60 + tareas * 40);
+            return (proyecto * 6 + tareas * 4);
 
         }
 
