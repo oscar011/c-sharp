@@ -1,0 +1,11 @@
+C:\Users\Oscar\source\repos\10\10\bin\Debug\netcoreapp3.1\10.exe
+C:\Users\Oscar\source\repos\10\10\bin\Debug\netcoreapp3.1\10.deps.json
+C:\Users\Oscar\source\repos\10\10\bin\Debug\netcoreapp3.1\10.runtimeconfig.json
+C:\Users\Oscar\source\repos\10\10\bin\Debug\netcoreapp3.1\10.runtimeconfig.dev.json
+C:\Users\Oscar\source\repos\10\10\bin\Debug\netcoreapp3.1\10.dll
+C:\Users\Oscar\source\repos\10\10\bin\Debug\netcoreapp3.1\10.pdb
+C:\Users\Oscar\source\repos\10\10\obj\Debug\netcoreapp3.1\10.csprojAssemblyReference.cache
+C:\Users\Oscar\source\repos\10\10\obj\Debug\netcoreapp3.1\10.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\10\10\obj\Debug\netcoreapp3.1\10.AssemblyInfo.cs
+C:\Users\Oscar\source\repos\10\10\obj\Debug\netcoreapp3.1\10.dll
+C:\Users\Oscar\source\repos\10\10\obj\Debug\netcoreapp3.1\10.pdb
